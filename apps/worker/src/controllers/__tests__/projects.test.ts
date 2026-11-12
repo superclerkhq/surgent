@@ -49,7 +49,7 @@ mock.module('@/lib/config', () => ({
     opencode: {
       baseUrl: 'https://opencode.test',
       configDir: '/home/user/opencode-config',
-      configRepoUrl: 'https://github.com/surgent-dev/opencode-config.git',
+      configRepoUrl: 'https://github.com/superclerkhq/opencode-config.git',
     },
     surgent: { baseUrl: 'https://surgent.test' },
   },
