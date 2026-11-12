@@ -27,7 +27,7 @@ This document maps:
 
 Cloned from:
 
-- `https://github.com/surgent-dev/opencode-config.git`
+- `https://github.com/superclerkhq/opencode-config.git`
 
 Inspected files:
 

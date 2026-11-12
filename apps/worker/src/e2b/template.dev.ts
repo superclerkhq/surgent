@@ -3,8 +3,8 @@ import { Template, waitForTimeout } from 'e2b'
 
 const token = process.env.GITHUB_TOKEN
 const repoUrl = token
-  ? `https://${token}@github.com/surgent-dev/surgent.git`
-  : 'https://github.com/surgent-dev/surgent.git'
+  ? `https://${token}@github.com/superclerkhq/surgent.git`
+  : 'https://github.com/superclerkhq/surgent.git'
 const sandboxDbUser = 'devuser'
 const sandboxDbName = 'devdb'
 const sandboxDbPassword = randomUUID()
